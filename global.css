@@ -1,0 +1,30 @@
+:root {
+  /* fonts */
+  --font-gill-sans-mt: "Gill Sans MT";
+  --font-lao-muang-don: "Lao Muang Don";
+  --font-jetbrains-mono: "JetBrains Mono";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 20px;
+  --font-size-lg: 25px;
+  --font-size-xl: 40px;
+  --font-size-2xl: 70px;
+
+  /* Colors */
+  --color-indigo: #571178;
+  --color-paleturquoise: #b0f1ff;
+  --color-darkslateblue: #282c53;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #fafeff;
+  --color-mediumblue: #3124c8;
+  --color-skyblue: #41d9fa;
+
+  /* border radiuses */
+  --br-xs: 6px;
+  --br-sm: 10px;
+  --br-md: 17px;
+  --br-lg: 20px;
+  --br-xl: 29px;
+}
