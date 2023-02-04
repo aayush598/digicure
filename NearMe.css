@@ -1,0 +1,655 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.near-me-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 56px;
+  left: 1333px;
+  border-radius: var(--br-xs);
+  background: linear-gradient(
+    90.76deg,
+    rgba(33, 40, 211, 0.47),
+    rgba(71, 128, 214, 0.51) 30.73%,
+    rgba(36, 151, 187, 0.53) 53.13%,
+    rgba(86, 229, 221, 0) 97.4%,
+    rgba(80, 77, 228, 0.49) 97.41%
+  );
+  width: 100px;
+  height: 36px;
+}
+.ef47b85b4374430b1bdd316e6ffa74-icon3 {
+  position: absolute;
+  top: 0;
+  left: 63px;
+  border-radius: var(--br-xl);
+  width: 252px;
+  height: 200px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.near-me3,
+.profile3 {
+  position: absolute;
+  display: inline-block;
+}
+.profile3 {
+  top: 62px;
+  left: 1352px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  width: 88px;
+  height: 34px;
+}
+.near-me3 {
+  top: 179px;
+  left: 579px;
+  font-size: 50px;
+  width: 376px;
+  height: 42px;
+}
+.instagram3 {
+  position: absolute;
+  display: inline-block;
+  width: 250px;
+  height: 40px;
+}
+.legal-notice3 {
+  left: 1021px;
+}
+.legal-notice3,
+.linkedin3,
+.privacy-policy3 {
+  position: absolute;
+  display: inline-block;
+  width: 250px;
+  height: 40px;
+}
+.privacy-policy3 {
+  left: 1021px;
+}
+.terms-of-condition3 {
+  top: 97px;
+  left: 1021px;
+}
+.terms-of-condition3,
+.twitter3 {
+  position: absolute;
+  display: inline-block;
+  width: 250px;
+  height: 40px;
+}
+.privacy-policy3 {
+  top: 154px;
+}
+.legal-notice3 {
+  top: 211px;
+}
+.instagram3 {
+  top: 97px;
+  left: 761px;
+}
+.linkedin3,
+.twitter3 {
+  left: 761px;
+}
+.linkedin3 {
+  top: 154px;
+}
+.twitter3 {
+  top: 211px;
+}
+.augmented-reality3 {
+  position: absolute;
+  left: 9px;
+  display: inline-block;
+  width: 250px;
+  height: 40px;
+}
+.chatbot3 {
+  top: 97px;
+  left: 9px;
+}
+.chatbot3,
+.contact-us6,
+.customer-support3,
+.d-models3 {
+  position: absolute;
+  display: inline-block;
+  width: 250px;
+  height: 40px;
+}
+.d-models3 {
+  left: 9px;
+}
+.augmented-reality3 {
+  top: 154px;
+}
+.d-models3 {
+  top: 211px;
+}
+.contact-us6 {
+  left: 385px;
+}
+.customer-support3 {
+  top: 97px;
+  left: 385px;
+}
+.contact-us6 {
+  top: 154px;
+}
+.customer-care3,
+.developer3,
+.legal3,
+.social3 {
+  position: absolute;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-family: var(--font-gill-sans-mt);
+  color: var(--color-gray);
+}
+.legal3,
+.social3 {
+  top: 0;
+  left: 1027px;
+  width: 134px;
+  height: 48px;
+}
+.social3 {
+  top: 7px;
+  left: 748px;
+}
+.customer-care3,
+.developer3 {
+  top: 11px;
+  left: 336px;
+  width: 361px;
+  height: 60px;
+}
+.developer3 {
+  top: 13px;
+  left: 0;
+}
+.terms-of-condition-parent1 {
+  position: absolute;
+  top: 3087px;
+  left: 109px;
+  width: 1271px;
+  height: 251px;
+  color: var(--color-white);
+  font-family: var(--font-lao-muang-don);
+}
+.name-3,
+.name-wrapper1 {
+  position: absolute;
+  width: 119px;
+  height: 25px;
+}
+.name-3 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.name-wrapper1 {
+  top: 237px;
+  left: 645px;
+}
+.contact-us-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1394px;
+  height: 844px;
+  object-fit: cover;
+}
+.email-3 {
+  position: absolute;
+  top: 350px;
+  left: 645px;
+  display: inline-block;
+  width: 119px;
+  height: 25px;
+}
+.thoughts-3 {
+  top: 466px;
+  left: 637px;
+  width: 145px;
+  height: 25px;
+}
+.contact-us7,
+.submit3,
+.thoughts-3 {
+  position: absolute;
+  display: inline-block;
+}
+.submit3 {
+  top: 757px;
+  left: 1096px;
+  color: var(--color-black);
+  width: 184px;
+  height: 29px;
+}
+.contact-us7 {
+  top: 77px;
+  left: 635px;
+  font-size: var(--font-size-2xl);
+  width: 315px;
+  height: 68px;
+}
+.contact-us-1-parent1,
+.group-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1394px;
+  height: 844px;
+}
+.group-parent2 {
+  top: 2125px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.pharma42 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.pharma41 {
+  position: absolute;
+  top: 64px;
+  left: 481px;
+  height: 36px;
+  opacity: 0.5;
+  color: var(--color-white);
+}
+.pharma41,
+.pharma43 {
+  width: 92px;
+}
+.pharma43,
+.pharma45,
+.pharma47,
+.pharma49,
+.pharma51 {
+  position: absolute;
+  top: 64px;
+  height: 36px;
+  opacity: 0.5;
+  color: var(--color-white);
+}
+.pharma43 {
+  left: 623px;
+}
+.pharma45,
+.pharma47 {
+  left: 765px;
+  width: 93px;
+}
+.pharma47 {
+  left: 908px;
+}
+.pharma49,
+.pharma51 {
+  left: 1051px;
+  width: 92px;
+}
+.pharma51 {
+  left: 1193px;
+}
+.pharma-hover-section-child8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-darkslateblue);
+}
+.invoice-creation12 {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.e-prescription12 {
+  margin: 0;
+}
+.invoice-creation-sale-container12,
+.pharma-hover-section-child9 {
+  position: absolute;
+  height: 48.65%;
+  width: 43.46%;
+  top: 14.53%;
+  left: 52.99%;
+  display: none;
+}
+.pharma-hover-section-child9 {
+  height: 13.85%;
+  width: 42.79%;
+  top: 82.43%;
+  right: 30.16%;
+  bottom: 3.72%;
+  left: 27.05%;
+  border-radius: var(--br-sm);
+  background: linear-gradient(
+    89.94deg,
+    rgba(99, 53, 127, 0.8),
+    rgba(62, 127, 204, 0.8) 25.85%,
+    rgba(32, 127, 167, 0.8) 55.71%,
+    rgba(99, 111, 216, 0.8) 77.17%,
+    rgba(190, 132, 225, 0.8)
+  );
+  box-shadow: 0 2px 3px 10px rgba(88, 225, 217, 0.25);
+  border: 1px solid var(--color-paleturquoise-200);
+  box-sizing: border-box;
+}
+.read-more12 {
+  position: absolute;
+  height: 12.16%;
+  width: 43.46%;
+  top: 84.12%;
+  left: 31.26%;
+  font-size: var(--font-size-lg);
+  display: none;
+  color: var(--color-paleturquoise-300);
+}
+.discount-checklist-2-icon6 {
+  position: absolute;
+  height: 67.57%;
+  width: 44.35%;
+  top: 10.47%;
+  right: 55.21%;
+  bottom: 21.96%;
+  left: 0.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.instance-child {
+  position: absolute;
+}
+.pharma-hover-section6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.instance-child {
+  cursor: pointer;
+  border: 1px solid var(--color-paleturquoise-200);
+  padding: 0;
+  background-color: transparent;
+  height: 13.85%;
+  width: 58.72%;
+  top: 77.67%;
+  right: 21.52%;
+  bottom: 8.48%;
+  left: 19.77%;
+  border-radius: var(--br-sm);
+  background: linear-gradient(
+    89.94deg,
+    rgba(99, 53, 127, 0.8),
+    rgba(62, 127, 204, 0.8) 25.85%,
+    rgba(32, 127, 167, 0.8) 55.71%,
+    rgba(99, 111, 216, 0.8) 77.17%,
+    rgba(190, 132, 225, 0.8)
+  );
+  box-sizing: border-box;
+}
+.read-more13 {
+  position: absolute;
+  height: 12.16%;
+  width: 59.63%;
+  top: 79.25%;
+  left: 25.87%;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  color: var(--color-paleturquoise-300);
+}
+.pharmacy-store-1-icon {
+  position: absolute;
+  height: 70.75%;
+  width: 87.21%;
+  top: 1.89%;
+  right: 7.85%;
+  bottom: 27.36%;
+  left: 4.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.pharma-hover-section-parent {
+  top: 304px;
+  left: 63px;
+}
+.pharma-hover-section-container,
+.pharma-hover-section-group,
+.pharma-hover-section-parent {
+  position: absolute;
+  width: 344px;
+  height: 318px;
+}
+.pharma-hover-section-group {
+  top: 1232px;
+  left: 63px;
+}
+.pharma-hover-section-container {
+  top: 1717px;
+  left: 78px;
+}
+.instance-child2 {
+  position: absolute;
+}
+.pharma-hover-section-parent1 {
+  position: absolute;
+  top: 765px;
+  left: 63px;
+  width: 344px;
+  height: 318px;
+}
+.instance-child2 {
+  height: 13.85%;
+  width: 58.72%;
+  top: 77.67%;
+  right: 21.52%;
+  bottom: 8.48%;
+  left: 19.77%;
+  border-radius: var(--br-sm);
+  background: linear-gradient(
+    89.94deg,
+    rgba(99, 53, 127, 0.8),
+    rgba(62, 127, 204, 0.8) 25.85%,
+    rgba(32, 127, 167, 0.8) 55.71%,
+    rgba(99, 111, 216, 0.8) 77.17%,
+    rgba(190, 132, 225, 0.8)
+  );
+  border: 1px solid var(--color-paleturquoise-200);
+  box-sizing: border-box;
+}
+.pharma-hover-section-parent2,
+.pharma-hover-section-parent3 {
+  position: absolute;
+  top: 310px;
+  left: 564px;
+  width: 344px;
+  height: 318px;
+}
+.pharma-hover-section-parent3 {
+  left: 1039px;
+}
+.pharmacy-store-1-icon6 {
+  position: absolute;
+  height: 70.75%;
+  width: 87.21%;
+  top: 1.89%;
+  right: 7.85%;
+  bottom: 27.36%;
+  left: 4.94%;
+  border-radius: var(--br-lg);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.pharma-hover-section-parent4,
+.pharma-hover-section-parent5 {
+  position: absolute;
+  top: 1238px;
+  left: 1039px;
+  width: 344px;
+  height: 318px;
+}
+.pharma-hover-section-parent5 {
+  top: 1723px;
+  left: 1054px;
+}
+.instance-child7 {
+  position: absolute;
+}
+.pharma-hover-section-parent6 {
+  position: absolute;
+  top: 771px;
+  left: 1039px;
+  width: 344px;
+  height: 318px;
+}
+.instance-child7 {
+  height: 13.85%;
+  width: 58.72%;
+  top: 77.67%;
+  right: 21.52%;
+  bottom: 8.48%;
+  left: 19.77%;
+  border-radius: var(--br-sm);
+  background: linear-gradient(
+    89.94deg,
+    rgba(99, 53, 127, 0.8),
+    rgba(62, 127, 204, 0.8) 25.85%,
+    rgba(32, 127, 167, 0.8) 55.71%,
+    rgba(99, 111, 216, 0.8) 77.17%,
+    rgba(190, 132, 225, 0.8)
+  );
+  border: 1px solid var(--color-paleturquoise-200);
+  box-sizing: border-box;
+  display: none;
+}
+.read-more31 {
+  position: absolute;
+  height: 12.16%;
+  width: 59.63%;
+  top: 79.25%;
+  left: 25.87%;
+  font-size: var(--font-size-lg);
+  display: none;
+  color: var(--color-paleturquoise-300);
+}
+.group-child10 {
+  position: absolute;
+  height: 13.7%;
+  width: 66.86%;
+  top: 78.3%;
+  right: 13.37%;
+  bottom: 8%;
+  left: 19.77%;
+  border-radius: var(--br-sm);
+  background: linear-gradient(
+    89.94deg,
+    rgba(99, 53, 127, 0.8),
+    rgba(62, 127, 204, 0.8) 25.85%,
+    rgba(32, 127, 167, 0.8) 55.71%,
+    rgba(99, 111, 216, 0.8) 77.17%,
+    rgba(190, 132, 225, 0.8)
+  );
+  border: 1px solid var(--color-paleturquoise-200);
+  box-sizing: border-box;
+}
+.ayurvedic-clinic {
+  position: absolute;
+  height: 10.04%;
+  width: 66.28%;
+  top: 80.43%;
+  left: 22.97%;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  color: var(--color-paleturquoise-300);
+}
+.group-child11 {
+  position: absolute;
+}
+.instance-parent,
+.near-me-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 344px;
+  height: 318px;
+}
+.near-me-inner {
+  top: 765px;
+  left: 564px;
+}
+.group-child11 {
+  height: 13.7%;
+  width: 66.86%;
+  top: 77.67%;
+  right: 15.99%;
+  bottom: 8.63%;
+  left: 17.15%;
+  border-radius: var(--br-sm);
+  background: linear-gradient(
+    89.94deg,
+    rgba(99, 53, 127, 0.8),
+    rgba(62, 127, 204, 0.8) 25.85%,
+    rgba(32, 127, 167, 0.8) 55.71%,
+    rgba(99, 111, 216, 0.8) 77.17%,
+    rgba(190, 132, 225, 0.8)
+  );
+  border: 1px solid var(--color-paleturquoise-200);
+  box-sizing: border-box;
+}
+.coarse-institute {
+  position: absolute;
+  height: 10.04%;
+  width: 66.28%;
+  top: 79.8%;
+  left: 20.35%;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  color: var(--color-paleturquoise-300);
+}
+.near-me-inner1,
+.near-me-inner2 {
+  position: absolute;
+  top: 1244px;
+  left: 564px;
+  width: 344px;
+  height: 318px;
+}
+.near-me-inner2 {
+  top: 1729px;
+  left: 579px;
+}
+.near-me2 {
+  position: relative;
+  background: linear-gradient(176.7deg, #11132b, rgba(24, 29, 74, 0.93));
+  width: 100%;
+  height: 3426px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-paleturquoise-100);
+  font-family: var(--font-gill-sans-mt);
+}

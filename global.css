@@ -4,22 +4,27 @@
   --font-lao-muang-don: "Lao Muang Don";
   --font-jetbrains-mono: "JetBrains Mono";
   --font-inter: Inter;
+  --font-microsoft-himalaya: "Microsoft Himalaya";
 
   /* font sizes */
   --font-size-base: 20px;
   --font-size-lg: 25px;
-  --font-size-xl: 40px;
-  --font-size-2xl: 70px;
+  --font-size-xl: 30px;
+  --font-size-2xl: 40px;
+  --font-size-3xl: 70px;
 
   /* Colors */
   --color-indigo: #571178;
-  --color-paleturquoise: #b0f1ff;
+  --color-paleturquoise-100: #b0f1ff;
+  --color-paleturquoise-200: #99f7fd;
+  --color-paleturquoise-300: #8ff1fe;
   --color-darkslateblue: #282c53;
   --color-white: #fff;
   --color-black: #000;
   --color-gray: #fafeff;
   --color-mediumblue: #3124c8;
-  --color-skyblue: #41d9fa;
+  --color-skyblue-100: #57d6f2;
+  --color-skyblue-200: #41d9fa;
 
   /* border radiuses */
   --br-xs: 6px;
